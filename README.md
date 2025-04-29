@@ -1,4 +1,4 @@
-<img src="https://github.com/DiegoJCordeiro/DiegoJCordeiro/blob/main/assets/Go-logo.png" width=250>
+<img src="https://github.com/DiegoJCordeiro/DiegoJCordeiro/blob/main/assets/terraform_logo.jpg" width=250>
 
 # Terraform - Infrastructure As A Code
 
@@ -45,7 +45,7 @@
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------ |
 | ***Terraform Doc***   | Utilizado para consultar a documentação Terraform.              | [Link](https://developer.hashicorp.com/terraform/docs)                |
 | ***Terraform Pattern*** | Utilizado para consultar as melhores práticas da linguagem Terraform. | [Link](https://developer.hashicorp.com/terraform/tutorials/recommended-patterns)    |
-| ***Books***        | Livros de Terraform                                    | [Link](https://www.manning.com/books/terraform-in-action) |
+| ***Books***        | Livros de Terraform                                    | [Link](https://www.google.com/search?q=Terraform+Books&sca_esv=cf65d87ff3121f3e&ei=_C0RaMXtNdDX1sQPvuqw8AU&ved=0ahUKEwjF29-fgv6MAxXQq5UCHT41DF4Q4dUDCBE&uact=5&oq=Terraform+Books&gs_lp=Egxnd3Mtd2l6LXNlcnAiD1RlcnJhZm9ybSBCb29rczILEAAYgAQYkQIYigUyBRAAGIAEMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHki6EFDDCVjEDnAGeACQAQCYAWqgAckBqgEDMS4xuAEDyAEA-AEBmAIHoAKaAcICCBAAGLADGO8FmAMAiAYBkAYFkgcDNi4xoAfbCLIHAzAuMbgHcA&sclient=gws-wiz-serp) |
 
 </br>
 
